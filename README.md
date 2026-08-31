@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Software+Development+%7C+Intelligent+Systems+%7C+Machine+Learning" />
+</p>
 
 <!--
 **HiSpyWAre/HiSpyWAre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-I'm a learner in software development with an interest in how different parts of a system come together, from interfaces to logic and data. I enjoy exploring front-end work, but also spend time understanding algorithms, backend concepts, and how applications behave under the hood. I like building small projects that help me grow step by step, experimenting with different tools, and learning through hands-on practice. Always improving, always curious.🚀💡
 -->
+
+I'm a learner in software development with an interest in how different parts of a system come together, from interfaces and logic to data and algorithms. I'm also exploring intelligent systems and machine learning, while continuously expanding my understanding of how technology can be used to build practical solutions. Most of my learning comes through building small projects, experimenting with different tools, and figuring things out along the way. 
+
